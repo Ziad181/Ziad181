@@ -32,13 +32,13 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 💼 Web Development Team Lead with 6+ years of experience
-- 🏗️ Specialized in SaaS & Multi-Tenant Architecture
-- ⚡ Focused on scalable backend systems & performance optimization
-- 🌍 Building travel-tech platforms & enterprise dashboards
-- 👨‍💻 Passionate about clean architecture and product engineering
+Web Development Team Lead with 6+ years of experience building scalable SaaS platforms, multi-tenant architectures, and high-performance web applications using Laravel & Vue.js.
+
+Specialized in system architecture, backend engineering, infrastructure optimization, and leading full product development lifecycle — from idea to production-ready platforms.
+
+Passionate about building scalable, maintainable, and business-driven software products.
 
 ---
 
@@ -46,10 +46,10 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,ts,js,nodejs,php,mysql,redis,docker,nginx,git,github,linux,postman,firebase" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,ts,js,php,mysql,redis,docker,nginx,git,github,linux,firebase" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,ts,js,nodejs,php,mysql,redis,docker,nginx,git,github,linux,postman,firebase" />  
 </p>
+
 </div>
 
 ---
