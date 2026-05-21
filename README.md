@@ -47,7 +47,9 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=laravel,vue,ts,js,nodejs,php,mysql,redis,docker,nginx,git,github,linux,postman,firebase" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,vue,ts,js,php,mysql,redis,docker,nginx,git,github,linux,firebase" />
+</p>
 </div>
 
 ---
