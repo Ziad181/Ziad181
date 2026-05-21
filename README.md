@@ -70,8 +70,7 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ziad181&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Ziad181&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
