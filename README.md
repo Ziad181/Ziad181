@@ -56,15 +56,11 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ziad181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziad181&theme=tokyonight" />
+
+<br><br>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Ziad181&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad181&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -74,7 +70,7 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ziad181&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ziad181&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
