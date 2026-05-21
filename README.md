@@ -9,12 +9,12 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 </p>
 
 <p>
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <a href="https://github.com/ziadit18">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://x.com/">
@@ -26,11 +26,13 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=ziadit18&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💼 Web Development Team Lead with 6+ years of experience
 - 🏗️ Specialized in SaaS & Multi-Tenant Architecture
@@ -40,7 +42,7 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -50,35 +52,51 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 
 ---
 
-## 📌 Featured Projects
-
-### ✈️ Safarflow
-Multi-tenant SaaS platform for travel agencies with subscription management, tenant isolation, analytics, and scalable architecture.
-
-### 🏢 Multi-Tenant System Architecture
-Advanced tenant database isolation with custom domain support, scalable onboarding, and dynamic tenant routing.
-
-### 📊 SaaS Dashboard Analytics
-Real-time metrics dashboards with financial reporting, KPI tracking, and performance monitoring.
-
-### ⚙️ Infrastructure & DevOps
-Server management, deployment pipelines, Redis optimization, Nginx configuration, and scalable production environments.
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadit18&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadit18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadit18&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=ziadit18&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadit18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## 🔥 Current Focus
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ziadit18&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+## ✈️ Safarflow
+Multi-tenant SaaS platform for travel agencies with subscription management, tenant isolation, analytics, and scalable architecture.
+
+## 🏢 Multi-Tenant System Architecture
+Advanced tenant database isolation with custom domain support, scalable onboarding, and dynamic tenant routing.
+
+## 📊 SaaS Dashboard Analytics
+Real-time metrics dashboards with financial reporting, KPI tracking, and performance monitoring.
+
+## ⚙️ Infrastructure & DevOps
+Server management, deployment pipelines, Redis optimization, Nginx configuration, and scalable production environments.
+
+---
+
+# 🔥 Current Focus
 
 ```txt
 - SaaS Platform Architecture
