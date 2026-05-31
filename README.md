@@ -1,11 +1,12 @@
+````md
 <div align="center">
 
 # Hi, I'm Ziad Rashad 👋
 
-### Web Development Team Lead | SaaS Architect | Full Stack Developer
+### Web Development Team Lead | Laravel & Vue.js Developer | SaaS & Multi-Tenant Systems
 
 <p>
-Building scalable SaaS platforms, multi-tenant systems, and high-performance web applications using Laravel & Vue.js.
+I build scalable web applications, SaaS platforms, enterprise dashboards, and API-driven systems using Laravel, Vue.js, MySQL, Redis, and modern deployment workflows.
 </p>
 
 <p>
@@ -34,27 +35,82 @@ Building scalable SaaS platforms, multi-tenant systems, and high-performance web
 
 ## 🚀 About Me
 
-Web Development Team Lead with 6+ years of experience building scalable SaaS platforms, multi-tenant architectures, and high-performance web applications using Laravel & Vue.js.
+Web Development Team Lead with 6+ years of experience building scalable web applications, SaaS platforms, enterprise dashboards, and multi-tenant systems.
 
-Specialized in system architecture, backend engineering, infrastructure optimization, and leading full product development lifecycle — from idea to production-ready platforms.
+I specialize in Laravel, Vue.js, REST APIs, database design, Redis caching, performance optimization, and production-ready system architecture.
 
-Passionate about building scalable, maintainable, and business-driven software products.
+My work focuses on building maintainable, secure, and business-driven software products — from early-stage startup ideas to scalable platforms used in real production environments.
 
 ---
 
-# 🛠️ Tech Stack
+## 💼 What I Build
+
+- SaaS platforms and multi-tenant applications
+- API-driven web applications and dashboards
+- Enterprise management systems
+- Laravel backend systems and REST APIs
+- Vue.js admin panels and SPA applications
+- Scalable database and caching architectures
+- Production deployment and server environments
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,ts,js,nodejs,php,mysql,redis,docker,nginx,git,github,linux,postman,firebase" />  
+  <img src="https://skillicons.dev/icons?i=laravel,vue,ts,js,nodejs,php,mysql,redis,docker,nginx,git,github,linux,postman,firebase" />
 </p>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🧠 Core Expertise
+
+| Area | Skills |
+|---|---|
+| Backend | Laravel, PHP, REST APIs, Authentication, Queues |
+| Frontend | Vue.js, TypeScript, Vite, Pinia, SPA Development |
+| Database | MySQL, MariaDB, Redis, Query Optimization |
+| Architecture | SaaS, Multi-Tenant Systems, API Architecture, System Design |
+| DevOps | Linux, Nginx, SSL, Deployment, Server Management |
+| Product | Startup MVPs, Dashboards, Business Platforms |
+
+---
+
+## 📌 Featured Work
+
+### ✈️ SafarFlow / Travel SaaS Platform
+Multi-tenant SaaS platform for travel companies with tenant isolation, subscription-based access, dashboards, analytics, and scalable Laravel architecture.
+
+**Focus:** Laravel, Vue.js, Multi-Tenancy, REST APIs, Redis, SaaS Architecture
+
+---
+
+### 🏢 Multi-Tenant System Architecture
+Architecture for tenant-based applications using isolated databases, dynamic tenant routing, subdomain handling, and scalable onboarding workflows.
+
+**Focus:** Laravel Tenancy, Database Isolation, Subdomains, API Authentication
+
+---
+
+### 📊 Enterprise Dashboards
+Business dashboards with role-based access, reporting, analytics, CRUD workflows, API integrations, and performance-focused backend design.
+
+**Focus:** Vue.js, Laravel APIs, MySQL, Authentication, Data Management
+
+---
+
+### ⚙️ Infrastructure & DevOps
+Production deployment workflows, server configuration, SSL setup, Redis optimization, Nginx/LiteSpeed environments, and performance monitoring.
+
+**Focus:** Linux, Nginx, Redis, Deployment, Production Systems
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -68,37 +124,26 @@ Passionate about building scalable, maintainable, and business-driven software p
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ziad181&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</div>
-
----
-
-# 📌 Featured Projects
-
-## ✈️ Safarflow
-Multi-tenant SaaS platform for travel agencies with subscription management, tenant isolation, analytics, and scalable architecture.
-
-## 🏢 Multi-Tenant System Architecture
-Advanced tenant database isolation with custom domain support, scalable onboarding, and dynamic tenant routing.
-
-## 📊 SaaS Dashboard Analytics
-Real-time metrics dashboards with financial reporting, KPI tracking, and performance monitoring.
-
-## ⚙️ Infrastructure & DevOps
-Server management, deployment pipelines, Redis optimization, Nginx configuration, and scalable production environments.
-
----
-
-# 🔥 Current Focus
+## 🔥 Current Focus
 
 ```txt
-- SaaS Platform Architecture
-- Multi-Tenant Systems
-- Laravel Ecosystem
-- Vue.js & TypeScript
-- Scalable Infrastructure
-- Travel Technology Solutions
+- Laravel SaaS Architecture
+- Multi-Tenant Database Design
+- Vue.js Dashboard Systems
+- REST API Development
+- Redis Caching & Performance Optimization
+- DevOps for Production Web Applications
+- Open Source Tools for Laravel & Vue.js
+````
+
+---
+
+## 📫 Contact
+
+* Portfolio: https://ziadrashad.com
+* LinkedIn: https://www.linkedin.com/in/ziad181
+* GitHub: https://github.com/Ziad181
+* Email: [ziadrashad.18@gmail.com](mailto:ziadrashad.18@gmail.com)
+
+```
+```
