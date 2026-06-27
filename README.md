@@ -34,11 +34,7 @@ I build scalable web applications, SaaS platforms, enterprise dashboards, and AP
 
 ## 🚀 About Me
 
-Web Development Team Lead with 6+ years of experience building scalable web applications, SaaS platforms, enterprise dashboards, and multi-tenant systems.
-
-I specialize in Laravel, Vue.js, REST APIs, database design, Redis caching, performance optimization, and production-ready system architecture.
-
-My work focuses on building maintainable, secure, and business-driven software products — from early-stage startup ideas to scalable platforms used in real production environments.
+Software Engineer with 6+ years of experience designing, developing, and scaling software products across travel, tourism, recruitment, e-commerce, and business management industries. Experienced in leading engineering teams, architecting scalable systems, and delivering end-to-end products from concept to production. Contributed to the successful delivery of 50+ software projects and the development of 20+ business platforms serving thousands of end users. Strong expertise in Laravel, PHP, Vue.js, React.js, system architecture, database design, API integrations, cloud infrastructure, and performance optimization. Passionate about building high-quality software that is scalable, maintainable, and aligned with business goals.
 
 ---
 
