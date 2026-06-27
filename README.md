@@ -2,7 +2,7 @@
 
 # Hi, I'm Ziad Rashad 👋
 
-### Web Development Team Lead | Laravel & Vue.js Developer | SaaS & Multi-Tenant Systems
+### Senior Software Engineer | Technical Lead | Full Stack Developer
 
 <p>
 I build scalable web applications, SaaS platforms, enterprise dashboards, and API-driven systems using Laravel, Vue.js, MySQL, Redis, and modern deployment workflows.
